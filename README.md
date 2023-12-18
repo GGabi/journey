@@ -2,9 +2,9 @@
 An ergonomic keyboard layout inspired by Recurva and Wedlock.
 
 ```
-w f g m '  j r o u y
+w b g m '  j r o u y
 c s t h v  q n e a i
-p b d l k  z x / , .
+p f d l k  z x / , .
 ```
 
 ## Stats (With | Without Punctuation)
