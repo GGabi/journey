@@ -1,57 +1,37 @@
-# journey
+# Journey
+
 An ergonomic keyboard layout inspired by Recurva and Wedlock.
 
 ```
-w b g m '  j r o u y
+w b d l k  j r u o y
 c s t h v  q n e a i
-p f d l k  z x / , .
+p f g m z  / x ' , .
 ```
 
-## Stats (With | Without Punctuation)
+Low SfBs (0.7 w/ punct), high inward-rolls, low LsBs and first-class accommodation for all the *H bigrams (which are the most common in English by far). Redirects are average and almost all are on the Index finger (ideal).
 
-Sfb:  1.024% | 0.797%
+More could you want?
 
-Dsfb: 6.549% | 5.968%
+## Variants
 
-Lsb:  0.452% | 0.256%
+### Journey BQ
 
-Inrolls: 31.662%
+Sacrifice some SfB% to reduce Right Ring and Pinky finger usage without gaining the YUO redirect.
 
-Outrolls: 14.614%
+```
+w y d l k  j r o u q
+c s t h v  b n e a i
+p f g m z  / x ' , .
+```
 
-Total Rolls: 46.276%
+### Journey OU
 
+If you can live with the YUO redirect the feel free to use this variant, which has more sensible right finger usage.
 
-Onehands: 1.970%
+```
+w b d l k  j r o u y
+c s t h v  q n e a i
+p f g m z  / x ' , .
+```
 
-
-Alternates: 20.512%
-
-Alternates (sfs): 5.937%
-
-Total Alternates: 26.449%
-
-Redirects: 7.598% | 6.958%
-
-BadRedirects: 0.958% | 0.886%
-
-Total Redirects: 8.556% | 7.845%
-
-
-Finger usage:
-
-finger 0:	6.94%	  finger 9:	10.03%
-
-finger 1:	9.99%	  finger 8:	11.89%
-
-finger 2:	14.56%	finger 7:	19.38%
-
-finger 3:	11.07%	finger 6:	13.36%
-
-
-Left hand: 42.56%	  Right hand: 54.65%
-
-Left center: 2.345%	Right center: 0.370%
-
-Home keys usage: 56.37%
-
+~groels
